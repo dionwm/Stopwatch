@@ -1,0 +1,37 @@
+body {
+    font-family: 'Press Start 2P';
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+}
+
+h2 {
+    text-align: center;
+    padding: 5%;
+}
+
+.stopwatch {
+    /* color: azure; */
+    text-align: center;
+}
+
+.buttons-box {
+    text-align: center;
+}
+
+button {
+    font-family: 'Press Start 2P';
+    border: 6px solid black;
+    padding: 14px 20px 0 20px;
+    margin: 100px 20px;
+    font-size: 30px;
+    text-align: center;
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+}
+
+/* .stopwatch-body {
+    padding: 0 0 19% 0;
+} */
